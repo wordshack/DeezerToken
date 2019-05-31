@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeezerToken</string>
+    <string name="buttonCopy">Copiar</string>
+    <string name="toastCopy">Token copiado correctamente</string>
+</resources>
